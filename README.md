@@ -18,9 +18,9 @@ All text translated to English
 
 Courier Prime font instead of the original fonts
 
-The page you were reading shows behind the ticket (settings at the top of the file)
+The page you were reading shows behind the ticket (transparent background)
 
-Ticket aligned to the left (TICKET_ALIGN)
+Ticket aligned to the left 
 
 ---
 
