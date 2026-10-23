@@ -8,7 +8,9 @@ Credits
 Original design and patch by w8. (Xiaohongshu/Rednote) / wongyx04-create (GitHub): https://github.com/wongyx04-create/readreceipt
 English translation and layout changes by Selena, shared with the original creator's permission. Please support the original creator.
 
+
 What was changed from the original
+
 All text translated to English
 Courier Prime font instead of the original fonts
 The page you were reading shows behind the ticket (settings at the top of the file)
