@@ -6,7 +6,7 @@ A receipt-style "reading ticket" for KOReader, showing the current book, progres
 
 Credits
 
-Original design and patch by w8. (Xiaohongshu) / wongyx04-create (GitHub): https://github.com/wongyx04-create/readreceipt
+Original design and patch by w8. (Xiaohongshu/RedNote) / wongyx04-create (GitHub): https://github.com/wongyx04-create/readreceipt
 
 English translation and layout changes by Selena, shared with the original creator's permission. Please support the original creator.
 
