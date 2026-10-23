@@ -4,6 +4,7 @@ Read Receipt for KOReader (English version)
 A receipt-style "reading ticket" for KOReader, showing the current book, progress, reading time, and today's summary. Works as a menu item and as a sleep screen.
 
 Credits
+
 Original design and patch by w8. (Xiaohongshu/Rednote) / wongyx04-create (GitHub): https://github.com/wongyx04-create/readreceipt
 English translation and layout changes by Selena, shared with the original creator's permission. Please support the original creator.
 
